@@ -1,0 +1,22 @@
+{
+  "name": "com.milindkatrodia.my-assets-exporter",
+  "version": "1.0.0",
+  "displayName": "My Assets Exporter",
+  "description": "Export Package Manager 'My Assets' data (metadata, size, compatibility, store links, publisher website) directly to JSON and CSV.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Milind Katrodia",
+    "email": "milindkatrodia@gmail.com",
+    "url": "https://github.com/Milind-Katrodia"
+  },
+  "keywords": [
+    "package-manager",
+    "assets",
+    "export",
+    "tools",
+    "csv",
+    "json",
+    "asset-store"
+  ],
+  "license": "MIT"
+}
